@@ -1,4 +1,7 @@
-# test coverage for  [connect-modrewrite (v0.10.1)](https://github.com/tinganho/connect-modrewrite#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-connect-modrewrite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-connect-modrewrite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-connect-modrewrite.svg)](https://travis-ci.org/npmtest/node-npmtest-connect-modrewrite)
+# npmtest-connect-modrewrite
+
+#### basic test coverage for  [connect-modrewrite (v0.10.1)](https://github.com/tinganho/connect-modrewrite#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-connect-modrewrite.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-connect-modrewrite) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-connect-modrewrite.svg)](https://travis-ci.org/npmtest/node-npmtest-connect-modrewrite)
+
 #### connect-modrewrite adds modrewrite functionality to connect/express server
 
 [![NPM](https://nodei.co/npm/connect-modrewrite.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/connect-modrewrite)
@@ -88,7 +91,8 @@
     "scripts": {
         "test": "./bin/test"
     },
-    "version": "0.10.1"
+    "version": "0.10.1",
+    "bin": {}
 }
 ```
 
